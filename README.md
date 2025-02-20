@@ -1,5 +1,17 @@
-# Chatbot Java GUI Client Server using Database
+# Chatbot Java GUI Client-Server using Database
 
-Implementasi Chatbot dalam socket dan menggunakan Database sebagai keyword.
+Overview
 
-Data didatabase masih sedikit, jadi botnya masih butuh banyakk data lagi.
+This project is a chatbot application implemented purely using Java with a graphical user interface (GUI). It follows a client-server architecture and integrates a database to store chat history and user interactions.
+
+Features
+
+Interactive chatbot with GUI
+
+Client-server communication model
+
+Database integration for storing conversations
+
+User authentication and session management
+
+Responsive and user-friendly design
